@@ -1,0 +1,20 @@
+instances_by_exit_status:
+    skipped:
+    - pvlib__pvlib-python-1072
+    - pylint-dev__astroid-1866
+    - pylint-dev__astroid-1978
+    submitted:
+    - pylint-dev__astroid-1268
+    - pylint-dev__astroid-1333
+    - pvlib__pvlib-python-1707
+    - pyvista__pyvista-4315
+    - pvlib__pvlib-python-1854
+    - pylint-dev__astroid-1196
+    - sqlfluff__sqlfluff-2419
+    - marshmallow-code__marshmallow-1359
+    - pydicom__pydicom-901
+    - pydicom__pydicom-1694
+    - sqlfluff__sqlfluff-1625
+    submitted (exit_cost):
+    - pydicom__pydicom-1413
+total_cost: 7.592262500000001

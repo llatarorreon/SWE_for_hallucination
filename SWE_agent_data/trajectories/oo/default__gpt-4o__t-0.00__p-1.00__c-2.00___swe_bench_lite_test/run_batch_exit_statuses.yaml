@@ -1,0 +1,7 @@
+instances_by_exit_status:
+    submitted:
+    - sympy__sympy-13773
+    - django__django-12497
+    submitted (exit_cost):
+    - django__django-16139
+total_cost: 2.5291550000000003
