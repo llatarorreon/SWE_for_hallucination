@@ -4,16 +4,6 @@ Contains base verifier class and specific implementation for different verificat
 """
 
 from .base_verifier import BaseVerifier
-from .verify_repetitive import VerifyRepetitive
-from .verify_unexpected_transition_tac import VerifyUnexpectedTransitionTAC
-from .verify_unexpected_transition_webarena import VerifyUnexpectedTransitionWebarena
-from .verify_user_questions_tac import VerifyUsersQuestionsTAC
-from .verify_user_questions_taubench import VerifyUsersQuestionsTaubench
-from .verify_popup_webarena import VerifyPopupWebarena
-from .verify_underspecified_webarena import VerifyUnderspecifiedWebarena
-from .verify_misleading_webarena import VerifyMisleadingWebarena
-from .verify_unachievable_webarena import VerifyUnachievableWebarena
-from .verify_erroneous_webarena import VerifyErroneousWebarena
 from .verify_repetitive_swebench import VerifyRepetitiveSWEbench
 from .verify_erroneous_swebench import VerifyErroneousSWEbench
 from .verify_misleading_swebench import VerifyMisleadingSWEbench
